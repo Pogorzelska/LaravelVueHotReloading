@@ -33,7 +33,7 @@ DB_USERNAME=your-username (default: root)
 DB_PASSWORD=your password (there is no default password set)
 ```
 
-4. Set your hosts. 
+4. Set your hosts and set your domain in webpack.mix.js. 
 
 5. Install libraries from package-lock.json
 ```
